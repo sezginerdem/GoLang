@@ -2,7 +2,7 @@ package main
 
 import "fmt"
 
-var packVar = "Package Scope"
+/* var packVar = "Package Scope" */
 
 func main() {
 
