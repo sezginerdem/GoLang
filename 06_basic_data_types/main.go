@@ -44,9 +44,10 @@ func main() {
 	var name = "Arin"
 	var age int16 = -256
 	var isMarried bool = true
-	var weight float32 = 72.5
-
+	var weight = 72.5
 	isMarried = false
+
+	name = "elis"
 
 	fmt.Println(name)
 	fmt.Println(age)
